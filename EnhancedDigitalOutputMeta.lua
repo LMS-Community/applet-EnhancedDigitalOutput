@@ -27,7 +27,7 @@ oo.class(_M, AppletMeta)
 
 -- custom kernel configuration
 local USB_KERNEL_VERSION = 1
-local USB_KERNEL_URL     = "http://ralph_irving.users.sourceforge.net/edo/kernel-digitalout-1.bin"
+local USB_KERNEL_URL     = "http://ralph.irving.sdf.org/edo/kernel-digitalout-1.bin"
 local USB_KERNEL_MD5     = "b1df8c851322d1b2bba0d1507e7e8f2e"
 
 
